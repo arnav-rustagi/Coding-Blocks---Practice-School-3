@@ -15,7 +15,7 @@
 }
 
 #intro {
-  background-image: url(bgimage.jpeg);
+  background-image: url("https://picsum.photos/2000/1000?grayscale");
   height: 100vh
   
 }
